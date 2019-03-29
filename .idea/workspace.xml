@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce79bef2-8088-4d9f-b33f-e41995e4606c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marioplan/functions/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/marioplan/functions/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/marioplan/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/marioplan/package-lock.json" afterDir="false" />
-    </list>
+    <list default="true" id="ce79bef2-8088-4d9f-b33f-e41995e4606c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,7 +12,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/marioplan/build/manifest.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/marioplan/build/package.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -93,6 +100,12 @@
               <item name="MarioPlaner" type="462c0819:PsiDirectoryNode" />
               <item name="marioplan" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MarioPlaner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MarioPlaner" type="462c0819:PsiDirectoryNode" />
+              <item name="marioplan" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -144,11 +157,12 @@
       <workItem from="1553789020617" duration="4527000" />
       <workItem from="1553804982711" duration="4497000" />
       <workItem from="1553874481599" duration="1076000" />
+      <workItem from="1553875873986" duration="244000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35351000" />
+    <option name="totallyTimeSpent" value="35595000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -373,6 +387,15 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/marioplan/firebase.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marioplan/build/service-worker.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marioplan/build/manifest.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/marioplan/build/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
